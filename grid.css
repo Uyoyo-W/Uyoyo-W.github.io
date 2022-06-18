@@ -71,3 +71,9 @@ a {
     color: white;
     text-decoration: none;
 }
+
+.responsive {
+    margin-top: 10px;
+    width: 260px;
+    margin-bottom: 30px;
+}

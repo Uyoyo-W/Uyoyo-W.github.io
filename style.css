@@ -120,6 +120,12 @@ a {
     color: hsl(0, 0%, 100%);
 }
 
+.responsive {
+    margin-top: 10px;
+    width: 260px;
+    margin-bottom: 30px;
+}
+
  @media all and (max-width: 968px) {
 
     .container{
